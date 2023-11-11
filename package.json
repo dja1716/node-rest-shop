@@ -1,14 +1,14 @@
 {
-  "name": "rest-shop",
+  "name": "vanilla-node-js",
   "version": "1.0.0",
-  "description": "A Node.js RESTful API Turorial Project (Build a simple shop API)",
+  "description": "A Node.js RESTful API Turorial Project",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dja1716/node-rest-shop.git"
+    "url": "git+https://github.com/dja1716/vanilla-node-js.git"
   },
   "keywords": [
     "node",
