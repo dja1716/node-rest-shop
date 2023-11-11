@@ -21,5 +21,8 @@
   "homepage": "https://github.com/dja1716/vanilla-node-js#readme",
   "dependencies": {
     "uuid": "^9.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
   }
 }
