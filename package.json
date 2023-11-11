@@ -1,7 +1,7 @@
 {
   "name": "vanilla-node-js",
   "version": "1.0.0",
-  "description": "A Node.js RESTful API Turorial Project",
+  "description": "A Node.js Turorial Project",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,17 +11,15 @@
     "url": "git+https://github.com/dja1716/vanilla-node-js.git"
   },
   "keywords": [
-    "node",
-    "RESTful",
-    "api"
+    "node"
   ],
   "author": "Hyeon Um",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/dja1716/node-rest-shop/issues"
+    "url": "https://github.com/dja1716/vanilla-node-js/issues"
   },
-  "homepage": "https://github.com/dja1716/node-rest-shop#readme",
+  "homepage": "https://github.com/dja1716/vanilla-node-js#readme",
   "dependencies": {
-    "express": "^4.18.2"
+    "uuid": "^9.0.1"
   }
 }
